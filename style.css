@@ -1,0 +1,15 @@
+.h1{
+    font-size: bold;
+    margin: 10px;
+}
+.p{
+    border: 10px solid red;
+    padding: 0;
+    width: 200px;
+    height: 100px;
+}
+.paragraph{
+    border: 10px red;
+    margin: 10px;
+  
+}
